@@ -1,0 +1,46 @@
+body{
+    background-color: #c1deee;
+}
+#Maior{
+    width: 70%;
+}
+#Maior,p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#Medio{
+    width: 40%;
+}
+#Medio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Cor{
+    color: #003153;
+    font-size: 50px;
+    font-family: FreeMono, monospace;
+}
+a:hover{
+    color: rgb(250, 114, 125);
+}
+.Cor,p{
+    text-align: center;
+}
+.Importante{
+    color: red;
+    font-size: 50px;
+    font-family: FreeMono, monospace;
+}
+.Importante, p{
+    text-align: center;
+}
+#Havana{
+    width: 40%;
+}
+#Havana, p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
